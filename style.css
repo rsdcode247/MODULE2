@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+  }
+
+  h1{
+    text-align: center;
+  }
+  .row {
+  background-color: blueviolet;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-right: auto;
+  margin-top: auto;
+  float: left;
+  border: 2px solid;
+  height: 1.5%;
+  width: 30%;
+  padding-left: auto;
+  padding-right: auto;
+  }
+  div{
+    background-color: brown;
+  }
+  .p1{
+    background-color: goldenrod;
+    border: 2px solid;
+    float: right;
+    
+    
+  }
+  
+  .p2{
+    background-color: rgb(6, 116, 48);
+    
+    float: right;
+    border: 2px solid;
+    
+  }
+  
+  .p3{
+  background-color: darkred;
+  border: 2px solid ;
+  float: right;
+  }
+ 
+  section{
+    margin-left: 10px;
+  }
